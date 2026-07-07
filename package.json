@@ -1,1 +1,12 @@
-
+{
+  "name": "porima-xpla-stock-bot",
+  "version": "1.0.0",
+  "description": "Porima xPLA Eco stok takip",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.2"
+  }
+}
